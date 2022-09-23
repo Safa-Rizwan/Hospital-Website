@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.home{
+    background:  linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(./images/home\ -\ bg.jpg) no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    padding: 180px 0;
+}
+section.doctor img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+hr{
+    width: 15%;
+    border-width: 4px;
+    background-color: brown;
+    margin: auto;
+    margin-bottom: 80px;
+}
