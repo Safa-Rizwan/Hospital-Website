@@ -1,0 +1,8 @@
+Navbar:
+mr ----> element right
+ml -----> element left
+
+pr -----> padding right
+pl -----> padding left
+
+font-weight-bold -----> bold text
