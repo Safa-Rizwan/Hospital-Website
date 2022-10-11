@@ -21,3 +21,10 @@ hr{
     margin: auto;
     margin-bottom: 80px;
 }
+.service-icon{
+    color: red;
+    font-size: 40px;
+}
+.blogs{
+    background-color: rgba(255, 0, 0, 0.601);
+}
